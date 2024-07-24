@@ -1,0 +1,6 @@
+suINT x = 10;
+
+
+please.su.print(x);
+
+
